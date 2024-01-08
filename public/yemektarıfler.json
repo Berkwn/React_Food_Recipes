@@ -1,0 +1,177 @@
+[
+
+     {
+    "id":1,
+    "ad":"Mercimek Çorbası",
+    "image":"https://i.nefisyemektarifleri.com/2021/05/10/kirmizi-mercimek-corbasi-nasil-yapilir.jpg",
+    "malzemeler": [
+        "1 su bardağı kırmızı mercimek",
+        "1 adet soğan",
+        "1 adet havuç",
+        "1 adet patates",
+        "2 yemek kaşığı sıvı yağ",
+        "1 tatlı kaşığı tuz",
+        "1 çay kaşığı karabiber"
+      ],
+      "tarif": "Mercimekleri yıkayın. Soğanı doğrayın. Havucu ve patatesi küp küp doğrayın. Bir tencerede sıvı yağı ısıtın. Doğranmış soğanı ekleyin ve pembeleşene kadar kavurun. Ardından doğranmış havuç ve patatesi ekleyin. Mercimekleri de ekleyip karıştırın. Üzerine su ekleyin ve kaynamaya bırakın. Tuz ve karabiberi ekleyin. Mercimekler iyice pişene kadar karıştırarak pişirin. Çorba kaynadıktan sonra blender ile püre haline getirin. İsteğe bağlı olarak üzerine tereyağı veya kırmızı biberli yağ ekleyebilirsiniz. Sıcak servis yapın."
+    },
+
+    {
+        "id": 2,
+        "ad": "Fırın Tavuk",
+        "image":"https://i.nefisyemektarifleri.com/2018/06/01/firin-posetinde-tavuk-cop-sis-1.jpg",
+        "malzemeler": [
+          "1 kg tavuk but veya göğüs",
+          "2 yemek kaşığı zeytinyağı",
+          "1 tatlı kaşığı tuz",
+          "1 çay kaşığı karabiber",
+          "1 çay kaşığı pul biber",
+          "2 diş sarımsak (isteğe bağlı)"
+        ],
+        "tarif": "Tavukları yıkayın ve suyunu süzün. Geniş bir kabın içinde tavukları zeytinyağı, tuz, karabiber ve isteğe bağlı olarak rendelenmiş sarımsak ile karıştırın. Tavukları bu karışıma bulayın ve buzdolabında en az 1 saat kadar bekletin. Fırını 200 dereceye ayarlayın. Tavukları fırın tepsisine dizin. Önceden ısıtılmış fırında tavuklar iyice kızarana kadar pişirin. Afiyet olsun!"
+      },
+
+      {
+        "id": 3,
+        "ad": "Mevsim Salatası",
+        "image":"https://i.nefisyemektarifleri.com/2022/04/20/mevsim-salatasi-3.jpg",
+        "malzemeler": [
+          "1 adet marul",
+          "1 adet salatalık",
+          "2 adet domates",
+          "1 adet havuç",
+          "1 adet limon suyu",
+          "2 yemek kaşığı zeytinyağı",
+          "Tuz",
+          "Karabiber"
+        ],
+        "tarif": "Marulu doğrayın, salatalığı dilimleyin, domatesleri ve havucu küp küp doğrayın. Geniş bir salata kabına malzemeleri ekleyin. Limon suyu, zeytinyağı, tuz ve karabiberi ekleyip karıştırın. Salatayı buzdolabında dinlendirip soğuk servis yapın."
+      },
+      {
+        "id": 4,
+        "ad": "Karnabahar Kızartması",
+        "image":"https://i.nefisyemektarifleri.com/2023/12/12/karnabahar-kizartmasi.jpg",
+        "malzemeler": [
+          "1 adet karnabahar",
+          "1 su bardağı un",
+          "2 adet yumurta",
+          "1 çay bardağı süt",
+          "Tuz",
+          "Karabiber",
+          "Sıvı yağ (kızartmak için)"
+        ],
+        "tarif": "Karnabaharı çiçeklerine ayırın ve yıkayın. Bir kaba un, yumurta, süt, tuz ve karabiberi ekleyip karıştırın. Karnabahar çiçeklerini bu karışıma bulayın. Geniş bir tavada sıvı yağı kızdırın. Karnabaharları kızartın. Kağıt havlu üzerine alarak fazla yağını süzdürün. Sıcak servis yapın."
+      },
+      {
+        "id": 5,
+        "ad": "Zeytinyağlı Yaprak Sarma",
+        "image":"https://i.nefisyemektarifleri.com/2016/06/28/uzum-yaprak-sarma-600x400.jpg",
+        "malzemeler": [
+          "Yufka yaprağı",
+          "Yarım su bardağı zeytinyağı",
+          "Yarım su bardağı pirinç",
+          "1 adet soğan",
+          "Yarım demet taze soğan",
+          "Yarım demet taze dill",
+          "Tuz",
+          "Limon suyu"
+        ],
+        "tarif": "Pirinci yıkayın ve süzün. Soğanı küçük doğrayın. Taze soğanı ve taze dilliyi ince ince doğrayın. Bir kaba pirinci, doğranmış soğanı, taze soğanı, taze dilliyi, zeytinyağını, tuzu ve limon suyunu ekleyin. Yufka yapraklarını açın ve iç harcı yerleştirin. Rulo şeklinde sarın. Sarma yapraklarını tencereye dizin. Üzerine su ve zeytinyağı gezdirin. Orta ateşte pişirin. Soğuduktan sonra servis yapın."
+      },
+      {
+        "id": 6,
+        "ad": "Ispanaklı Börek",
+        "image":"https://i.nefisyemektarifleri.com/2023/12/18/el-acmasi-lezzetinde-ispanakli-borek.jpg",
+        "malzemeler": [
+          "Yufka",
+          "Yarım kilo ıspanak",
+          "1 adet soğan",
+          "Yarım su bardağı sıvı yağ",
+          "Tuz",
+          "Karabiber",
+          "Pul biber"
+        ],
+        "tarif": "Ispanakları yıkayın ve doğrayın. Soğanı doğrayın. Geniş bir tavada soğanı sıvı yağ ile kavurun. Doğranmış ıspanakları ekleyin ve suyunu salıp çekene kadar pişirin. Tuz, karabiber ve pul biber ekleyip karıştırın. Yufkaları aralarına ıspanaklı karışımdan koyarak üçgen şeklinde sarın. Yağlı kağıt serili tepsiye börekleri dizin. Önceden ısıtılmış fırında üzeri kızarana kadar pişirin. Afiyet olsun!"
+      },
+      {
+        "id": 7,
+        "ad": "Kumpir",
+        "image":"https://i.nefisyemektarifleri.com/2016/06/15/guvecte-pratik-kumpir-600x400.jpg",
+        "malzemeler": [
+          "4 adet büyük patates",
+          "100 gram tereyağı",
+          "1 su bardağı rendelenmiş kaşar peyniri",
+          "1 su bardağı mısır",
+          "1 su bardağı haşlanmış bezelye",
+          "2 yemek kaşığı mayonez",
+          "2 yemek kaşığı ketçap",
+          "Tuz",
+          "Karabiber"
+        ],
+        "tarif": "Patatesleri yıkayın ve fırında közleyin. Sonrasında patateslerin içini çıkarın. İçine tereyağı, rendelenmiş kaşar peyniri, mısır, haşlanmış bezelye, mayonez, ketçap, tuz ve karabiber ekleyip karıştırın. Hazırladığınız karışımı patates kabuklarına doldurun. Üzerine isteğe bağlı malzemeler ekleyebilirsiniz. Sıcak servis yapın."
+      },
+      {
+        "id": 8,
+        "ad": "Kısır",
+        "image":"https://i.nefisyemektarifleri.com/2023/11/29/sosuyla-demlenen-harika-kisir-tarifi-1.jpg",
+        "malzemeler": [
+            "2 su bardağı ince bulgur",
+            "1 su bardağı sıcak su",
+            "Yarım su bardağı nar ekşisi",
+            "Yarım su bardağı zeytinyağı",
+            "Tuz",
+            "1 tatlı kaşığı pul biber",
+            "Yarım limon suyu",
+            "1 tatlı kaşığı sumak",
+            "2 adet limon suyu",
+            "1 demet taze soğan",
+            "1 demet taze maydanoz"
+        ],
+        "tarif": "Bulgurları derin bir kaba alın. Üzerine sıcak suyu ekleyip karıştırın. Bulgurların şişmesini bekleyin. Şişen bulgurlara zeytinyağı, nar ekşisi, tuz, pul biber, limon suyu, sumak, ince doğranmış taze soğan ve maydanozu ekleyip karıştır"
+      },
+      {
+        "id": 9,
+        "ad": "Kek",
+        "image":"https://i.nefisyemektarifleri.com/2023/12/25/elmali-rulo-kek.jpg",
+        "malzemeler": [
+           " 3 adet yumurta",
+           " 1 su bardağı şeker",
+            "Yarım su bardağı sıvı yağ",
+           " 1 su bardağı süt",
+            "1 paket kabartma tozu",
+            "1 paket vanilya",
+            "Un ( yaklaşık 2,5 su bardağı kadar)"
+        ],
+        "tarif": "1. Yumurtaları derin bir kaba kırın ve şekerle iyice çırpın. \\n2. Sütü ve sıvı yağı ekleyip karıştırın. \\n3. Unu azar azar ekleyerek karıştırın. \\n4. Vanilin şekeri ve kabartma tozunu ekleyip homojen bir karışım elde edene kadar çırpın. \\n5. Kek kalıbını yağlayın ve karışımı içine dökün. \\n6. Önceden ısıtılmış 180 derece fırında üzeri kızarana kadar pişirin. \\n7. Kek piştikten sonra fırından çıkarıp soğumaya bırakın. \\n8. Soğuduktan sonra dilimleyerek servis yapın. \\n9. Afiyet olsun!"
+      
+                
+      },
+      {
+        "id": 10,
+        "ad": "Triliçe",
+        "image":"https://i.nefisyemektarifleri.com/2019/05/06/tam-olcusunde-trilece-tarifi-bu-tarifi-kacirmayin-videolu-1.jpg",
+        "malzemeler": [
+           " 3 adet yumurta",
+           " 1 su bardağı şeker",
+            "Yarım su bardağı sıvı yağ",
+           " 1 su bardağı süt",
+            "1 paket kabartma tozu",
+            "1 paket vanilya",
+            "Un ( yaklaşık 2,5 su bardağı kadar)"
+        ],
+        "tarif": "1. Yumurtaları derin bir kaba kırın ve şekerle iyice çırpın. \\n2. Sütü ve sıvı yağı ekleyip karıştırın. \\n3. Unu azar azar ekleyerek karıştırın. \\n4. Vanilin şekeri ve kabartma tozunu ekleyip homojen bir karışım elde edene kadar çırpın. \\n5. Kek kalıbını yağlayın ve karışımı içine dökün. \\n6. Önceden ısıtılmış 180 derece fırında üzeri kızarana kadar pişirin. \\n7. Kek piştikten sonra fırından çıkarıp soğumaya bırakın. \\n8. Soğuduktan sonra dilimleyerek servis yapın. \\n9. Afiyet olsun!"
+      
+                
+      }
+      
+      
+
+
+
+
+    
+
+
+
+
+]
